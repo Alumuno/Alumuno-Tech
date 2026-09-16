@@ -8,7 +8,7 @@ Solo builder behind **LUWO** — *Layered Unified Waveforms and Oscillations.*
 
 🔭 **Now:** provably lossless columnar compression for machine-generated JSON
 
-⛓️ **Flagship:** [Alumuno-Tech/luwo-compression](https://github.com/Alumuno-Tech/luwo-compression) — 85.6% reduction, byte-exact round-trips, SHA-256 sealed
+⛓️ **Flagship:** [Alumuno-Tech/luwo-compression](https://github.com/Alumuno-Tech/luwo-compression) — 95.9% reduction, byte-exact round-trips, SHA-256 sealed
 
 🌐 **Front door:** [luwo.ca](https://luwo.ca)
 
