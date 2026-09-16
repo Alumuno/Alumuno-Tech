@@ -18,5 +18,7 @@ Solo builder behind **LUWO** — *Layered Unified Waveforms and Oscillations.*
 
 ---
 
+![JAX-1 GITHUB-0](assets/jax1_github0.png)
+
 *Copyright © 2025-2026 Jack Wolf Edwards / Alumuno Technologies Inc. All rights reserved.*
 *$LUWO — For Luna, authored by JAXW01F*
